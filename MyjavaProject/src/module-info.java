@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Madhusudhan
+ *
+ */
+module MyjavaProject {
+}
